@@ -1,0 +1,82 @@
+head = "MY MADLIB"
+print()
+heading = head.center(10)
+print(heading)
+                
+                # Fill for fun
+print()
+
+fictional_character = input()
+                
+print("1. Kabhi Kabhi lagta h apunich " + fictional_character + " hai!")
+
+
+emotion = input()
+                
+print("2. Shuru " + emotion + " mein kiya tha ab maza aa raha hai.")
+
+
+adjective = input()
+                
+print("3. Joey loves " + adjective)
+
+
+actor = input()
+                
+print("4. " + actor + " is my cousin.")
+
+
+action1 = input()
+thing = input()
+                
+print("5. Hum jahan " + action1 + " hote hain, " + thing + " wahin se shuru hota h!")
+
+
+action2 = input()
+                
+print("6. I can " + action2 +  " with pizza.")
+
+
+favourite_food = input()
+                
+print("7. I can swim in " + favourite_food)
+
+
+name = input()
+slang = input()
+drink = input()
+                
+print("8. " + name + " " + slang + " main tera " + drink + " pee jaunga. ")
+
+
+worst_song = input()
+                
+print("9. " + worst_song + " is the best series I've ever watched")
+
+
+your_lover_name = input()
+                
+print("10." + your_lover_name + " I hate tears!")
+
+
+pronoun = input()
+name1 = input()
+pet2 = input()
+                
+print("11. Aaj mere pass " + pronoun + " hai, " + name1 + " hai,tumhare pass " + pet2 + " kya hai?")
+
+
+pet1 = input()
+friend1 = input()
+                
+print("12. Mere " + friend1 + " " + pet1 + " aayenge.")
+
+
+slang1 = input()
+slang2 = input()
+hobby = input()
+                
+print("13. Kaun" + slang1 + " hai jo " + slang2 + " karne ke liye " + hobby + " hai")
+
+print()
+print("Game Over,Thank You!")
